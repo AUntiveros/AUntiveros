@@ -24,8 +24,6 @@ Biomedical engineering student in the 9th cycle of the PUCP–UPCH joint program
 
 Research and practical interests span **medical signal and image processing**, **AI-assisted diagnostics**, **microfluidics**, and **biomedical device prototyping** using additive manufacturing and CAD. Committed to developing accessible diagnostic technologies for community health and rural settings.
 
-Currently serving as **Teaching Assistant for Digital Signal Processing** at PUCP and conducting a research internship on a microfluidic biochip for preeclampsia detection at UPCH.
-
 ---
 
 ## Research & Professional Experience
