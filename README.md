@@ -20,7 +20,7 @@
 
 ## About
 
-Biomedical engineering student in the 9th cycle of the PUCP–UPCH joint program, ranked in the **top 10% of the cohort**. Academic exchange at the **Universidad Politécnica de Madrid** (Jan–Jul 2024), with coursework in bioinstrumentation, biosensors, medical imaging, and medical device development.
+Biomedical engineering from PUCP–UPCH joint program, ranked in the **top 10% of the cohort**. Academic exchange at the **Universidad Politécnica de Madrid** (Jan–Jul 2024), with coursework in bioinstrumentation, biosensors, medical imaging, and medical device development.
 
 Research and practical interests span **medical signal and image processing**, **AI-assisted diagnostics**, **microfluidics**, and **biomedical device prototyping** using additive manufacturing and CAD. Committed to developing accessible diagnostic technologies for community health and rural settings.
 
